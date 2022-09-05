@@ -45,6 +45,7 @@ HTML Code를 빨리 작성하기(jsbin.com)
 * div. 또는 div#
 * .myClass
 * 부모, 자식, 형제 노드: div>ul>li, 형제: div>ul+ol
+* HTML to CSS atocompletion Extension: CSS 파일에서 HTML에 정의된 클래스를 자동으로 recommend
 
 [주석 코드 색상 엘리와 똑같이 바꾸기](https://youtu.be/2UaKfAz-eEI)
 
