@@ -25,7 +25,11 @@
 
   Command Palette: win:Ctrl+Shift+p / mac: Cmd+Shift+p
 
-  Extensions: Material Theme, Material Icon Theme
+  Extensions: Material Theme
+  
+  Material Icon Theme
+  
+  Prettier - Code formatter: win:Ctrl+, / mac:Cmd+,
 
 [Emmet 영상 제일 마지막에 익스텐션 하나더](https://youtu.be/m7wsrVQsVjI)
 
