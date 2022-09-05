@@ -27,7 +27,14 @@
 * Extensions:
   + Material Theme
   + Material Icon Theme  
-  + Prettier - Code formatter: win:Ctrl+, / mac:Cmd+,
+  + Prettier - Code formatter: win:Ctrl+, / mac:Cmd+, : Tab 2 Space: 2
+* Bracket Pair Colorizer
+* Indent Rainbow
+* Auto Rename Tag: 앞의 html Tag를 변환하면 
+* CSS Peek: win:Ctrl+click / mac: Cmd+click: 정의된 CSS 클래스로 점프
+* HTML CSS Support: 클래스 명을 변경하면 관련된 것 모두 변경
+* Live Server: Open with Live Server를 커멘드에서 실행
+* Markdown Preview: VS Code에 자체적으로 설치됨
 
 [Emmet 영상 제일 마지막에 익스텐션 하나더](https://youtu.be/m7wsrVQsVjI)
 
