@@ -35,8 +35,16 @@
 * HTML CSS Support: 클래스 명을 변경하면 관련된 것 모두 변경
 * Live Server: Open with Live Server를 커멘드에서 실행
 * Markdown Preview: VS Code에 자체적으로 설치됨
+* HTML, CSS, JavaScript Test Site: jsbin.com, jsfiddle.net, codesandbox.io
 
 [Emmet 영상 제일 마지막에 익스텐션 하나더](https://youtu.be/m7wsrVQsVjI)
+
+HTML Code를 빨리 작성하기(jsbin.com)
+* HTML 양식 작성: !
+* div 태그 작성: div + Tab
+* div. 또는 div#
+* .myClass
+* 부모, 자식, 형제 노드: div>ul>li, 형제: div>ul+ol
 
 [주석 코드 색상 엘리와 똑같이 바꾸기](https://youtu.be/2UaKfAz-eEI)
 
